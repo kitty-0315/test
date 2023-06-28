@@ -1,4 +1,4 @@
-service: aws-billing-to-slack
+service: app-aws-cost
 
 plugins:
   - serverless-python-requirements
